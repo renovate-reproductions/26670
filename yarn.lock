@@ -6,9 +6,9 @@ __metadata:
   cacheKey: 10c0
 
 "is-arrayish@npm:^0.3.0":
-  version: 0.3.0
-  resolution: "is-arrayish@npm:0.3.0"
-  checksum: edfa0e31d911faf8eab83c4875b46576f5a8445b017cfd0f23a84c6575d87895e338960c31a7d72fb1b09982401929041c0582c78ac06b9f6fd2e2fc3ada8847
+  version: 0.3.2
+  resolution: "is-arrayish@npm:0.3.2"
+  checksum: f59b43dc1d129edb6f0e282595e56477f98c40278a2acdc8b0a5c57097c9eff8fe55470493df5775478cf32a4dc8eaf6d3a749f07ceee5bc263a78b2434f6a54
   languageName: node
   linkType: hard
 
